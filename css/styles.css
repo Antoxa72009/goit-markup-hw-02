@@ -33,6 +33,10 @@ address {
     color: #2e2f42;
 }
 
+.header-menu-list li:first-child .header-menu-link {
+    color: #2e2f42;
+}
+
 .header-menu-item a {
     color: #434455;
 }
