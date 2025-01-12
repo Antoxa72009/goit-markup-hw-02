@@ -85,6 +85,7 @@ address {
         letter-spacing: 0.04em;
         color: #fff;
         background-color: #4D5AE5;
+        cursor: pointer;
 }
 
 /*----------FUATURES----------*/
@@ -115,9 +116,14 @@ address {
     font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
+        text-transform: capitalize;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+}
+
+.ourteam-item {
+    background-color: #FFFFFF;
 }
 
 .ourteam-name {
@@ -144,6 +150,7 @@ address {
     font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
+        text-transform: capitalize;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
