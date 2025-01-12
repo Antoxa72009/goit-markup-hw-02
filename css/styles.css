@@ -86,11 +86,6 @@ address {
         color: #fff;
         background-color: #4D5AE5;
 }
-.hero-btn-link:hover,
-.hero-btn-link:focus{
-    background-color: #404BBF;
-        outline: none;
-}
 
 /*----------FUATURES----------*/
 
@@ -119,7 +114,7 @@ address {
 .ourteam-title {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -148,7 +143,7 @@ address {
 .ourportfolio-title {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -185,11 +180,11 @@ address {
         color: #f4f4fd;
 }
 
-.header-logo-color {
+.footer-logo-color {
     font-weight: 700;
         font-family: Raleway;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
