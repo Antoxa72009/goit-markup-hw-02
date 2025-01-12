@@ -9,8 +9,7 @@ a {
 }
 
 ul {
-    list-style-type: none;
-    padding: 0;
+    list-style-type: none;    
 }
 
 address {
@@ -194,7 +193,7 @@ address {
         color: #4d5ae5;
 }
 
-.logo-span {
+.footer-logo-span {
     color: #f4f4fd;
 }
 
