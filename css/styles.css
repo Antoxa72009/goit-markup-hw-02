@@ -37,6 +37,11 @@ address {
     color: #2e2f42;
 }
 
+.header-menu-list li:first-child .header-menu-link:hover,
+.header-menu-list li:first-child .header-menu-link:focus {
+    color: #404bbf;
+}
+
 .header-menu-item a {
     color: #434455;
 }
