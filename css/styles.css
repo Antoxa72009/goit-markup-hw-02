@@ -20,9 +20,9 @@ address {
 /*----------HEADER----------*/
 
 .header-logo {
-    font-weight: 700;
     font-family: 'Raleway',
         sans-serif;
+    font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -30,7 +30,7 @@ address {
     color: #4d5ae5;
 }
 
-.header-logo span {
+.header-logo-span {
     color: #2e2f42;
 }
 
@@ -88,6 +88,11 @@ address {
         cursor: pointer;
 }
 
+.hero-btn-link:hover,
+.hero-btn-link:focus {
+    background-color: #404bbf;
+}
+
 /*----------FUATURES----------*/
 
 .fuatures-subtitle {
@@ -135,7 +140,7 @@ address {
         color: #2e2f42;
 }
 
-.ourteam-position {
+.ourteam-profession {
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -164,7 +169,7 @@ address {
         color: #2e2f42;
 }
 
-.ourportfolio-position {
+.ourportfolio-vacancy {
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -179,9 +184,9 @@ address {
 }
 
 .footer-logo {
-    font-weight: 700;
     font-family: 'Raleway',
             sans-serif;
+    font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
@@ -189,7 +194,7 @@ address {
         color: #4d5ae5;
 }
 
-.footer-logo span {
+.logo-span {
     color: #f4f4fd;
 }
 
