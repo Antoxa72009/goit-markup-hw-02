@@ -88,12 +88,6 @@ address {
 
 /*----------FUATURES----------*/
 
-.fuatures {}
-
-.fuatures-list {}
-
-.fuatures-item {}
-
 .fuatures-subtitle {
     font-weight: 500;
         font-size: 20px;
@@ -125,12 +119,6 @@ address {
         color: #2e2f42;
 }
 
-.ourteam-list {}
-
-.ourteam-item {}
-
-.ourteam-image {}
-
 .ourteam-name {
     font-weight: 500;
         font-size: 20px;
@@ -151,8 +139,6 @@ address {
 
 /*----------OURPORTFOLIO----------*/
 
-.ourportfolio {}
-
 .ourportfolio-title {
     font-weight: 700;
         font-size: 36px;
@@ -161,12 +147,6 @@ address {
         text-align: center;
         color: #2e2f42;
 }
-
-.ourportfolio-list {}
-
-.ourportfolio-item {}
-
-.ourportfolio-image {}
 
 .ourportfolio-name {
     font-weight: 500;
